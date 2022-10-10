@@ -1,4 +1,4 @@
-<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_button_selected_event" id="?Oz=SH@$pscQt3Gyz=5p" x="119" y="-281"><field name="NAME">Button.A</field><value name="eventType"><shadow type="control_button_event_click" id="h2F333cb3F3,*vsH:(#n"/></value><statement name="HANDLER"><block type="device_show_leds" id="b#3v{gd|,PgY6Ie.5!SX"><field name="LEDS">`
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_button_selected_event" id="?Oz=SH@$pscQt3Gyz=5p" x="0" y="0"><field name="NAME">Button.A</field><value name="eventType"><shadow type="control_button_event_click" id="h2F333cb3F3,*vsH:(#n"/></value><statement name="HANDLER"><block type="device_show_leds" id="b#3v{gd|,PgY6Ie.5!SX"><field name="LEDS">`
         . . . . . 
         . . . . . 
         . . . . . 
